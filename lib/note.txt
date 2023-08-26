@@ -1,0 +1,2 @@
+to get google api key 
+first create firebase project and bind with app

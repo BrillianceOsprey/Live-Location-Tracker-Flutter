@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995441638994",
+    "firebase_url": "https://locationtracking-84f64-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "locationtracking-84f64",
+    "storage_bucket": "locationtracking-84f64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995441638994:android:132b8a95f624b5ee08a98b",
+        "android_client_info": {
+          "package_name": "com.aaddev.my_loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995441638994-sdm7j5emd0lgv1j9j25l6to48s49mo6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxCN4YFya0K4KTLPEjFMCNBJ7Of4rViXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995441638994-sdm7j5emd0lgv1j9j25l6to48s49mo6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
